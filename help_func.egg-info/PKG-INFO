@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: help-func
+Version: 1.0
+Summary: A package containing two helper functions to add a series to a dataframe and to convert column containing string date time data to date time format
+Home-page: https://github.com/Cknowles11/lambdata_cknowles11
+Author: Carlos Knowles
+Author-email: cknowles4211@gmail.com
+License: UNKNOWN
+Description: # lambdata_cknowles11
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
